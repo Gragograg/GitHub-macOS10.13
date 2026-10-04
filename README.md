@@ -1,2 +1,2 @@
 # GitHub-macOS10.13
-A macOS 10.13 GitHub in a web wrapper (wrapper made by Wowfunhappy.)
+Download the latest version from Releases. This repository is empty because all source code is effectively included in the download.
